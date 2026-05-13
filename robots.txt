@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: confirm final domain before launch
+Sitemap: https://www.evabbottcoaching.com/sitemap.xml
